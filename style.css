@@ -9,6 +9,8 @@
     position: relative;
     background-image: url('img/espaco.jpg');
     background-size: cover;
+    min-width: 300px;
+    max-width: 100%;
     
 }
 .conteudo{
