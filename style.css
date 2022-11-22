@@ -5,18 +5,15 @@
 }
 
 .container{
-    height: 97vh;
+    height: 100vh;
     position: relative;
     background-image: url('img/espaco.jpg');
     background-size: cover;
-    max-width: 100%;
-    min-width: 300px;
+
     
     
 }
 .conteudo{
-    max-width: 100%;
-    min-width: 300px;
     position: absolute;
     top: 50%;
     left: 50%;
